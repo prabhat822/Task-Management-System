@@ -1,14 +1,7 @@
-# A Tasks Management REST API written in Go using Clean Architecture
-A simple Golang backend project on my journey of learning clean architecture using Gin, MYSQL, JWT Authentication.
+# Tasks Management System using REST API written in Go
 ## Table of contents
 ## Clean Architecture
-Clean architecture is a software design principle proposed by Robert C. Martin ([see here](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)) that aims to achieve the separation of concerns by dividing the software into layers. 
 
-The architecture produces systems that are independent of frameworks, testable, and independent of UI, database, and any external agency. The Dependency Rule, which states that source code dependencies can only point inwards, makes this architecture work. 
-
-Clean architecture typically consists of four layers: entities, use cases, interface adapters, and frameworks and drivers.
-
-The examples in this repository demonstrate the implementation of Clean Architecture in Golang.
 ### Architecture Layers
 ![architecture](assets/architecture.png)
 ### Folder Structure
