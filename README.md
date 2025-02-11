@@ -1,6 +1,4 @@
 # Tasks Management System using REST API written in Go
-## Table of contents
-## Clean Architecture
 
 ### Architecture Layers
 ![architecture](assets/architecture.png)
